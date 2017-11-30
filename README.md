@@ -14,3 +14,5 @@ While this sounds appealing given paradigms such as test driven development , th
 
 [see Abstraction Problem](./AbstractionProblem.md)
 [see Replacing Models with Implementation](./ReplacingModelswithImplementation.md)
+
+[see Thinking outside the box](./OutsideTheBox.md)
